@@ -26,11 +26,47 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+First, an end user would create a ticket using the organization's local host URL page. From there they can sumbit their own tickets to be worked by an agent.
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Life-Cycle-Examples/blob/main/ticket%20cycle%20step%201.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Life-Cycle-Examples/blob/main/ticket%20cycle%20step%201b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Life-Cycle-Examples/blob/main/ticket%20cycle%20step%201c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Life-Cycle-Examples/blob/main/ticket%20cycle%20step%201d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Once the ticket is created, an agent can go in and observe the details and assign it to a team or another agent, change the SLA plan, or update the help topic if necessary.
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/bigbearbunkie/osTicket-Life-Cycle-Examples/blob/main/ticket%20cycle%20step%202.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Life-Cycle-Examples/blob/main/ticket%20cycle%20step%202b.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Life-Cycle-Examples/blob/main/ticket%20cycle%20step%202c.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://github.com/bigbearbunkie/osTicket-Life-Cycle-Examples/blob/main/ticket%20cycle%20step%202d.PNG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
